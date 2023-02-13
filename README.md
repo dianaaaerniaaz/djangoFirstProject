@@ -1,0 +1,2 @@
+# djangoFirstProject
+Online shop
